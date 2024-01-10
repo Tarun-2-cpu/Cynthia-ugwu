@@ -20,6 +20,7 @@ body {
   width: 1vw;
   border-radius: 50%;
   background-color: white;
+  mix-blend-mode:difference;
   position: absolute;
   z-index: 999;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
